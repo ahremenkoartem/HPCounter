@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HP-Counter</string>
+    <string name="_20">20</string>
+    <string name="todo">TODO</string>
 </resources>
